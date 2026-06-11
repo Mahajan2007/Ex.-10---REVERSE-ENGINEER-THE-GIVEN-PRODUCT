@@ -1,7 +1,6 @@
-
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
-
-### DATE: 26-05-26
+# Ex No.4  - REVERSE ENGINEER THE GIVEN PRODUCT
+###   NAME : MahaJanani.R
+### REG NO : 212224230147
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -32,16 +31,18 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![WhatsApp Image 2026-03-16 at 7 32 38 PM](https://github.com/user-attachments/assets/91b7ca55-894a-4916-bb5e-0b99722473cb)
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/7408110d-7914-4008-933b-f6217ae8feaa" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/22b30f1a-6f50-4a82-8e4e-1657f634361c" />
+
 
 
 ### Output:
-<img width="1919" height="955" alt="image" src="https://github.com/user-attachments/assets/82c0a26a-9474-41cb-ba55-ad9d79cf039a" />
+
+<img width="1918" height="896" alt="image" src="https://github.com/user-attachments/assets/ba77ea80-3f23-4acb-987a-35291fe94bb0" />
+<img width="1919" height="900" alt="image" src="https://github.com/user-attachments/assets/32de0c3c-e2bb-4850-a55d-cc2a8278e047" />
 
 
-
-### Name: MahaJanani.R
-### Register Number:212224230147
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
